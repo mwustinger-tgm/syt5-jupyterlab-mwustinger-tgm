@@ -4,4 +4,4 @@
 jupyter labextension install @jupyterlab/toc
 
 # Remove output from Jupyter notebooks
-jupyter nbconvert --ClearOutputPreprocessor.enabled=True --inplace Data-Science-Protokoll-Wustinger.ipynb
+jupyter nbconvert --ClearOutputPreprocessor.enabled=True --inplace Data-Science-Protokoll-Wustinger_R.ipynb
